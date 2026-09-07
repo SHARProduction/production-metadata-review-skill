@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sharproduction.github.io/production-metadata-review-skill/sitemap.xml
